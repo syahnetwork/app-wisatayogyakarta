@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wisata Jogja</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="penjelasan">Merupakan Pusaka Pemberian Raja Kraton Yogyakarta Sri Sultan Hamengku Buwono X. Tombak ini dibuat pada tahun 1921 semasa pemerintahan Sri Sultan Hamengku Buwono VIII. Senjata yang sering dipergunakan para prajurit ini mempunyai panjang 3 meter. Tombak dengan pamor wos wutah wengkon dengan dhapur kudhuping gambir ini, landeannya sepanjang 2,5 meter terbuat dari kayu walikun, yakni jenis kayu yang sudah lazim digunakan untuk gagang tombak dan sudah teruji kekerasan dan keliatannya.
+    </string>
+</resources>
